@@ -1,0 +1,8 @@
+# Excel
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+
+# CSV
+*.csv
